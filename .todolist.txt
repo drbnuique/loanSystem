@@ -1,0 +1,16 @@
+to-do list
+------------------------------
+major addition
+------------------------------
+date for loans
+
+minor  addition
+------------------------------
+print option
+stops user from deleting the last account
+
+design
+------------------------------ 
+
+
+    
